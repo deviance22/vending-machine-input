@@ -1,0 +1,24 @@
+{
+  "name": "vending-machine-input",
+  "version": "1.0.0",
+  "description": "input for vending machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deviance22/vending-machine-input.git"
+  },
+  "author": "Ryan Bamba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deviance22/vending-machine-input/issues"
+  },
+  "homepage": "https://github.com/deviance22/vending-machine-input#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
